@@ -11,4 +11,4 @@ permalink           : "/about-passage-outreach/"
 1. Who we are
 1. What we do
 
-<a class="radius button small" href="https://www.pas.rochester.edu/~passage/">Check out the main PASSAGE site to see what else PASSAGE does.  We have even more to offern than outreach! ›</a>
+<a class="radius button small" href="https://www.pas.rochester.edu/~passage/">Check out the main PASSAGE site to see what else PASSAGE does.  We have even more to offer than outreach! </a>
