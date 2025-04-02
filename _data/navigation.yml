@@ -15,9 +15,9 @@
   side: left
   dropdown:
   - title: "Physics Demos"
-    url: "/demos-and-resources/physics/"
+    url: "/demos-and-resources/physics-demos/"
   - title: "Astronomy Demos"
-    url: "/demos-and-resources/astronomy/"
+    url: "/demos-and-resources/astronomy-demos/"
 
 - title: "Search"
   url: "/search/"
