@@ -20,11 +20,11 @@ author: Dominique Segura-Cox
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Demos: "aboutme"
+    - Past Events: "aboutme"
+  Calendar of Events: "aboutme"
 
 ################
 # --- Logo --- #
