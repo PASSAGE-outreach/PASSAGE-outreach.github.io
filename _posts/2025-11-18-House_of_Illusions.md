@@ -1,6 +1,7 @@
 ---
 layout: post
 title: House of Illusions Makes Debut at Spooky Science Day 2025
+thumbnail-img: /assets/img/peppers_ghost.png
 subtitle: Science behind magic is a hit!
 comments: false
 ---
