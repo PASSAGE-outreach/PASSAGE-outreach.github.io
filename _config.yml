@@ -22,9 +22,9 @@ author: contact J. Jenick
 navbar-links:
   About: "aboutme"
   Resources:
-    - Demos: "aboutme"
-    - Past Events: "aboutme"
-  Calendar of Events: "aboutme"
+    - Demos: "demos"
+    - Past Events: "pastevents"
+  Calendar of Events: "calendar"
 
 ################
 # --- Logo --- #
