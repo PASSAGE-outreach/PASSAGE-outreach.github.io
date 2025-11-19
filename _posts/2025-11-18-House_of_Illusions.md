@@ -10,10 +10,10 @@ This Halloween season PASSAGE will also be debuting the House of Illusions, an e
 The illusions were based on many scientific principles, and touched on topics such as phosphorescense, reflections, tension, perception, lighting effects, and electricity.  After being wowed with a demonstration, guests were invited to learn about the science behind the magic.
 
 Here we are recreating the Pepper's Ghost illusion:
-![Ghost?](assets/img/peppers_ghost.png){: .mx-auto.d-block :}
+![Ghost?](/assets/img/peppers_ghost.png){: .mx-auto.d-block :}
 
 A thrilling electrical demonstration:
-![Zap!](assets/img/ray_mad_scientist_2.png){: .mx-auto.d-block :}
+![Zap!](/assets/img/ray_mad_scientist_2.png){: .mx-auto.d-block :}
 
 Some fun with luminescence in the dark room:
-![Glowing](assets/img/Dom_ghost1.png){: .mx-auto.d-block :}
+![Glowing](/assets/img/Dom_ghost1.png){: .mx-auto.d-block :}
