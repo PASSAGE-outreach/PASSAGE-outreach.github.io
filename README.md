@@ -4,14 +4,12 @@
 
 > By [Dean Attali](https://deanattali.com) &middot; [Demo](https://beautifuljekyll.com/)
 
-**Beautiful Jekyll** is a ready-to-use template to help you create a beautiful website quickly. Perfect for personal sites, blogs, or simple project websites.  [Check out a demo](https://beautifuljekyll.com) of what you'll get after just two minutes.  You can also look at [my personal website](https://deanattali.com) or [my consulting website](https://attalitech.com) to see it in use, or see [examples of websites](http://beautifuljekyll.com/examples) other people created using this theme.
+**Beautiful Jekyll** is a ready-to-use template to help you create a beautiful website quickly. Perfect for personal sites, blogs, or simple project websites.  [Check out a demo](https://beautifuljekyll.com) of what you'll get after just two minutes.  You can also look at [examples of websites](http://beautifuljekyll.com/examples) other people created using this theme.
 
-**If you enjoy Beautiful Jekyll, please consider [supporting me](https://github.com/sponsors/daattali). You'll also gain access to office hours and more features! ❤**
 
 ## Table of contents
 
 - [Features](#features)
-- [Sponsors 🏆](#sponsors)
 - [**Build your website in 3 steps**](#build-your-website-in-3-steps)
 - [Plans](#plans)
 - [Add your own content](#add-your-own-content)
@@ -39,15 +37,6 @@ __Check out [*What's New?*](https://beautifuljekyll.com/updates/) to see the lat
 - **Search**: Let users easily find any page using a Search button in the navigation bar.
 - **Photos support**: Any page can have a full-width cover photo and thumbnail.
 - **RSS**: An RSS feed is automatically created, so you can even host a podcast easily with Beautiful Jekyll.
-
-<h2 id="sponsors">Sponsors 🏆</h2>
-
-Developing and maintaining Beautiful Jekyll takes a lot of time and effort - thank you to anyone who helps fund this effort!
-
-- [DoFollow](https://dofollow.co.uk/)
-- [Varna Sri Raman](https://about.me/varna)
-
-**[Become a sponsor for Beautiful Jekyll and unlock new features\!](https://github.com/sponsors/daattali/sponsorships?tier_id=39856)**
 
 # Build your website in 3 steps
 
@@ -82,16 +71,6 @@ Edit the `_config.yml` file to change any settings you want. To edit the file, f
 ### 4. Congratulations! You have a website!
 
 If you named your project correctly and made an edit to the config file, your website should be ready in a minute or two at `https://YOURUSERNAME.github.io`. Every time you make a change to any file, your website will get rebuilt and should be updated in about a minute or so. Your website will be initialized with several sample blog posts and a couple other pages.
-
-## The harder way (for advanced users)
-
-The instructions above explain how to use Beautiful Jekyll in the easiest way: by forking on GitHub. There are more [advanced installation methods](https://beautifuljekyll.com/getstarted/#install-steps-hard) that include either using GitHub Pages with remote themes, or using Ruby gems. They provide you with more control, but are only intended for advanced users.
-
-> Note: Beautiful Jekyll was primarily designed to be used as a GitHub theme, so you will not get any support if you use this theme via Ruby gems. 
-
-# Plans
-
-Beautiful Jekyll is, and always will be, free. But if you want to remove the Beautiful Jekyll ad from your website, use a Dark Mode skin, access office hours, or simply support the development efforts, [check out the different plans](https://beautifuljekyll.com/plans).
 
 # Add your own content
 
@@ -199,12 +178,6 @@ ext-css      | List of external CSS files to include in the page. External CSS f
 - **minimal** - If you want to create a page with minimal styling (ie. without the bulky navigation bar and footer), assign `layout: minimal` to the YAML front matter.
 - If you want to completely bypass the template engine and just write your own HTML page, simply omit the YAML front matter. Only do this if you know how to write HTML!
 
-# Featured users (success stories!)
-
-Visit the [Official website](http://beautifuljekyll.com/examples) to see sample websites using Beautiful Jekyll.
-
-If you'd like to showcase yourself and join this list, [upgrading to the Individual plan](https://github.com/sponsors/daattali/sponsorships?&tier_id=7362) will give you that publicity plus some other rewards!
-
 # Next steps
 
 Congratulations on making it this far! You now have all the tools to easily build a beautiful website for free. 
@@ -224,12 +197,6 @@ Visit the [FAQ page](https://beautifuljekyll.com/faq) for answers to commonly as
 **If you choose to [become a sponsor](https://beautifuljekyll.com/plans/), you'll have access to my [office hours](https://beautifuljekyll.com/officehours/) where you can ask for help.** You can also use the [Discussions](https://github.com/daattali/beautiful-jekyll/discussions) area to try and get help from the community.
 
 Beautiful Jekyll is used by 50,000+ people with wildly varying degrees of web skills, so it's impossible to answer all the questions that may arise. For any question that's not specifically related to Beautiful Jekyll and is more about Jekyll or web development in general, the answer can often be found on Google, in the [Jekyll documentation](https://jekyllrb.com/), or on the [Jekyll support forum](https://talk.jekyllrb.com/).
-
-# Contributions
-
-Thank you to [all past contributors](https://github.com/daattali/beautiful-jekyll/graphs/contributors). If you find any problems or would like to contribute in any way, feel free to create a pull request/open an issue/send me a message.
-
-You can also contribute by becoming an [official sponsor](https://github.com/sponsors/daattali/sponsorships?tier_id=39856) to help keep Beautiful Jekyll well-maintained!
 
 # Credits
 
