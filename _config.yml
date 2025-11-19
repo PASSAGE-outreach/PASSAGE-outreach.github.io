@@ -41,6 +41,9 @@ round-avatar: true
 # then specify the following parameter
 title-img: "/assets/img/logo.webp"
 
+# Set Favicon (mini logo in tab of browser)
+favicon: "/favicon.ico"
+
 
 #####################################
 # --- Footer social media links --- #
