@@ -6,7 +6,7 @@ thumbnail-img: /assets/img/peppers_ghost.png
 comments: false
 ---
 
-This Halloween season PASSAGE will also be debuting the House of Illusions, an exhibit aimed at showing people the science behind several different illusions often used in haunted houses.  Over 200 people walked through two rooms filled with physics-based illusions.
+This Halloween season PASSAGE debuted the House of Illusions, an exhibit aimed at showing people the science behind several different illusions often used in haunted houses.  Over 200 people walked through two rooms filled with physics-based illusions.
 
 The illusions were based on many scientific principles, and touched on topics such as phosphorescense, reflections, tension, perception, lighting effects, and electricity.  After being wowed with a demonstration, guests were invited to learn about the science behind the magic.
 
