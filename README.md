@@ -2,13 +2,15 @@
 
 This is the website for the PASSAGE Outreach team at the University of Rochester.
 
-To edit global properies of the site, like color scheme or add new tabs to the navigation bar, see the _config.yml file.
+To edit global properies of the site, like color scheme or add new tabs to the navigation bar, see the **_config.yml** file.
 
-To add a new post to the front page, create a new post following the format of the existing posts in the _posts directory.
+To add a new post to the front page, create a new post following the format of the existing posts in the **_posts directory**.
 
-To add to the past events, calendar, demos, or about me pages, please edit the .md files in the top-level directory.
+To add to the past events, calendar, demos, or about me pages, please edit the **.md files in the top-level directory**.
 
-To edit the text on the front page, edit the index.html file.
+To edit the text on the front page, edit the **index.html** file.
+
+Add images and videos to the **assets** folder.
 
 # Beautiful Jekyll
 Run by Beautiful Jekyll  By [Dean Attali](https://deanattali.com) &middot; [Demo](https://beautifuljekyll.com/)
