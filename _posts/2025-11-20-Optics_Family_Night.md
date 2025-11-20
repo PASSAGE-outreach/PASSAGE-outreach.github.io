@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Optics Family Night on December 13th 4-7pm!
-subtitle: Eye-Popping Science!
+subtitle: Eye-popping science!
 thumbnail-img: /assets/img/OpticsFamilyNight_2024.jpg
 comments: false
 ---
