@@ -47,6 +47,6 @@ STEM Superstar (Girl Scout event)
 
 STEAM Day @ Jefferson Road Elementary
 
-## Demos @ Volunteers of America
+Demos @ Volunteers of America
 
-## Science Exploration Club at Allendale-Columbia
+Science Exploration Club at Allendale-Columbia
