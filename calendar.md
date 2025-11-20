@@ -12,7 +12,7 @@ We will be once again be volunteering with our friends in Optics for their U of 
 
 We received an APS FEd grant for a family-friendly portable computation museum where participants will explore the history of computing. The goal is to design and construct demos showing the history of computers from the abacus to neural nets, as well as document the process and make it digitally accessible so that anyone interested in similar demos can access our work. If you are interested in helping with design, construction, or documentation, please let Jessica know!
 
-##Organized by our undergraduate friends: [Astronomy on Tap](https://astronomyontap.org/locations/rochester-ny/)!  
+## Organized by our undergraduate friends: [Astronomy on Tap](https://astronomyontap.org/locations/rochester-ny/)!  
 
 Casual astronomy presentations on the third Tuesday each month at 7:30pm from scientists in a laid back pub environment.
 
