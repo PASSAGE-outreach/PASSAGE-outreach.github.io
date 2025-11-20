@@ -6,7 +6,7 @@ thumbnail-img: /assets/img/peppers_ghost.png
 comments: false
 ---
 
-This Halloween season PASSAGE debuted the House of Illusions, an exhibit aimed at showing people the science behind several different illusions often used in haunted houses.  Over 200 people walked through two rooms filled with physics-based illusions.
+A NYSS-APS grant allowed us to debut the House of Illusions at Spooky Science Day this year! The House of Illusions is a science museum-style exhibit themed as a haunted house. We built and displayed several classical illusions, teaching visitors about the science behind the deception. Thanks to all the volunteers who made this possible! 
 
 The illusions were based on many scientific principles, and touched on topics such as phosphorescense, reflections, tension, perception, lighting effects, and electricity.  After being wowed with a demonstration, guests were invited to learn about the science behind the magic.
 
