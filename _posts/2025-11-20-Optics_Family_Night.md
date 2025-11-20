@@ -1,8 +1,8 @@
 ---
 layout: post
-title: House of Illusions Makes Debut at Spooky Science Day 2025
-subtitle: Science behind magic is a hit!
-thumbnail-img: /assets/img/peppers_ghost.png
+title: Optics Family Night on December 13th 4-7pm!
+subtitle: Eye-Popping Science!
+thumbnail-img: /assets/img/OpticsFamilyNight_2024.jpg
 comments: false
 ---
 
