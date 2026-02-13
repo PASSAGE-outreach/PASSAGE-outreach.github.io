@@ -6,7 +6,7 @@ thumbnail-img: /assets/img/elisha_crowd.jpg
 comments: false
 ---
 
-We are grateful to be invited to participate in Winslow Elementary Math/STEM Night on February 11, 2026. We brought several fun demos and had a great time sharing cool science with local families. Thanks to all the volunteers who helped! 
+We are grateful to have been invited to participate in Winslow Elementary Math/STEM Night on February 11, 2026. We brought several fun demos and had a great time sharing cool science with local families. Thanks to all the volunteers who helped! 
 
 
 Here are our wonderful volunteers showing off a shocking demo:
