@@ -40,11 +40,13 @@ Here, you can find the info sheets about various scientific concepts demonstrate
 The Endless Well we constructed in heavily based upon the design created by [Lawrence Lund](https://www.llund.com/botpit.htm). We began with a 2' x 3' frameless mirror, and created a frame around it using 2" x 4" boards. This was done by carving a groove along one of the 4" sides of the boards for the mirror to rest upon, and then constructing the frame around the mirror. This process was repeated for a 2' x 3' piece of plexiglass, one side of which was covered by one-way mirror film.
   
 ![Board1](/assets/img/wellboards.jpg){: .mx-auto.d-block :}
+
 ![Board2](/assets/img/wellframe.jpg){: .mx-auto.d-block :}
   
 For the walls of the well, we used two 2' x 3' and two 3' x 3' pieces of plywood. One side was painted black for the exterior, the other was painted to look like brickwork for the interior. Adding a pattern helps to add a sense of scale to the illusion when constructed.
 
 ![Wall1](/assets/img/wellpainting.png){: .mx-auto.d-block :}
+
 ![Wall2](/assets/img/bricks.png){: .mx-auto.d-block :}
 
 The plywood pieces were attached together by gluing 6" pieces of 1" x 2" board into L-brackets, and screwing those brackets to the corners created by the plywood walls. We attached 2 LED strips along the inside of the well, equidistant from each other and the top and bottom, respectively. We used LED strip that can connect to a portable charger, which we taped to the back of the well while in operation.
@@ -52,6 +54,7 @@ The plywood pieces were attached together by gluing 6" pieces of 1" x 2" board i
 To assemble the well, the mirror is placed on the floor, the well base on top of that, and then the one-way mirror. Given the height of our well, we provided step stools so that children could see into the well easily. The demo works best in a dimly lit room. We did not secure either of the mirror frames to the well body, both for easier storage and because it allows the presenter to remove the top when explaining the demo to participants, allowing them to more easily see how the demos works.
 
 ![Well](/assets/img/pit.jpg){: .mx-auto.d-block :}
+
 ![WynterWell](/assets/img/wynterwell.jpg){: .mx-auto.d-block :}
 </details>
 
