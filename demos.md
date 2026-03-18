@@ -37,7 +37,7 @@ Here, you can find the info sheets about various scientific concepts demonstrate
 
 ![Wellforboy](/assets/img/wells_for_boys.JPG){: .mx-auto.d-block :}
 
-The Endless Well we constructed in heavily based upon the design created by [Lawrence Lund](https://www.llund.com/botpit.htm). We began with a 2' x 3' frameless mirror, and created a frame around it using 2" x 4" boards. This was done by carving a groove along one of the 4" sides of the boards for the mirror to rest upon, and then constructing the frame around the mirror. This process was repeated for a 2' x 3' piece of plexiglass, one side of which was covered by one-way mirror film.
+The Endless Well is a demo that creates an infinite-seeming reflection. More details can be found within the reflection nfo sheet. The Endless Well we constructed in heavily based upon the design created by [Lawrence Lund](https://www.llund.com/botpit.htm). We began with a 2' x 3' frameless mirror, and created a frame around it using 2" x 4" boards. This was done by carving a groove along one of the 4" sides of the boards for the mirror to rest upon, and then constructing the frame around the mirror. This process was repeated for a 2' x 3' piece of plexiglass, one side of which was covered by one-way mirror film.
   
 ![Board1](/assets/img/wellboards.jpg){: .mx-auto.d-block :}
 
