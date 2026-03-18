@@ -85,7 +85,20 @@ To assemble the well, the mirror is placed on the floor, the well base on top of
 
 <details markdown="1">
 <summary>Scrim</summary>
-A scrim is a material often used in theater that appears opaque when lit from the front and transparent when lit from behind. For our scrim, we used 
+
+![Scrim](/assets/img/scrimcloseup.jpg){: .mx-auto.d-block :}
+
+A scrim is a material often used in theater that appears opaque when lit from the front and transparent when lit from behind. More information can be found in the reflection info sheet. For our scrim, we used cheesecloth. Individual pieces were cut and dyed to form a pattern and were then sewn together onto a second background layer.
+
+![Dragon](/assets/img/Domdragon.jpg){: .mx-auto.d-block :}
+
+A stand was built out of plywood for a volunteer to hide behind to operate the demo. It is enclosed on three sides, with a hole cut out of the front to allow for the scrim, inside a cardboard frame, to be placed in.
+
+![Frame](/assets/img/scrimconstruction.jpg){: .mx-auto.d-block :}
+
+A reading lamp was placed facing the scrim from the front. When lit, visitors are unable to see through the scrim. The volunteer behind the stand could turn of the light and turn on a flashlight facing the back of the scrim, allowing visitors to see the constumed volunteer hiding behind the demo.
+
+![Display](/assets/img/scrimbacklit.jpg){: .mx-auto.d-block :}
 </details>
 
 <details markdown="1">
