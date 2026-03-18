@@ -44,8 +44,8 @@ The Endless Well we constructed in heavily based upon the design created by [Law
   
 For the walls of the well, we used two 2' x 3' and two 3' x 3' pieces of plywood. One side was painted black for the exterior, the other was painted to look like brickwork for the interior. Adding a pattern helps to add a sense of scale to the illusion when constructed.
 
-![Wall1](/assets/img/wellpainting.HEIC){: .mx-auto.d-block :}
-![Wall2](/assets/img/bricks.HEIC){: .mx-auto.d-block :}
+![Wall1](/assets/img/wellpainting.JPG){: .mx-auto.d-block :}
+![Wall2](/assets/img/bricks.JPG){: .mx-auto.d-block :}
 
 The plywood pieces were attached together by gluing 6" pieces of 1" x 2" board into L-brackets, and screwing those brackets to the corners created by the plywood walls. We attached 2 LED strips along the inside of the well, equidistant from each other and the top and bottom, respectively. We used LED strip that can connect to a portable charger, which we taped to the back of the well while in operation.
 
