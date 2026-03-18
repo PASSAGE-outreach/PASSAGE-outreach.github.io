@@ -5,13 +5,11 @@ subtitle: Recreate Our Demos for Your Event!
 ---
 
 
-Under Construction!  Links to performing demonstrations, filmed demos, build instructions, documentation of build processes, and more will be available here!
-
 ## House of Illusions!
 
 <details markdown="1">
 <summary>General Information</summary>
-The House of Illusions is a science museum-style exhibit themed as a haunted house. It was funded by an New York State Section -American Physical Society Physics Outreach grant. For the event, we constructed a number of demos that demonstrated different classic illusions. The information about each of these demos can be found in the tabs below. We also made use of several pre-built deoms, lent to us by the University of Rochester Physics & Astronomy Department as well as by individual volunteers. These included a Jacob's Ladder, a Plasma Globe, a Mirror Hologram, and Amusement Park Mirrors. Informations sheets explaining the science concepts demonstrated by the various illusions can also be found below.
+The House of Illusions is a science museum-style exhibit themed as a haunted house. It was funded by a New York State Section of the American Physical Society Physics Outreach grant. For the event, we constructed a number of demos that demonstrated different classic illusions. The information about each of these demos can be found in the tabs below. We also made use of several pre-built deoms, lent to us by the University of Rochester Physics & Astronomy Department as well as by individual volunteers. These included a Jacob's Ladder, a Plasma Globe, a Mirror Hologram, and Amusement Park Mirrors. Informations sheets explaining the science concepts demonstrated by the various illusions can also be found below.
 </details>
 
 <details markdown="1">
