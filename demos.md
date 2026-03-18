@@ -11,6 +11,7 @@ House of Illusions!
 <details markdown="1">
 <summary>Informational Resource Sheets</summary>
 Here, you can find the info sheets about various scientific concepts demonstrated by the House of Illusions.
+  	[Electricity](/assets/img/Electricity.pdf)
 </details>
 
 <details markdown="1">
