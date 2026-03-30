@@ -11,9 +11,9 @@ date: false
 Enjoy some photo galleries from our various events!  yo?
 
 wooapsd 
-![word?](/assets/img/wellboards.png){: .mx-auto.d-block :}
+![word?](/assets/img/wellboards.jpg){: .mx-auto.d-block :}
 
 wasdjfal tration:
-![wrod!](/assets/img/wellframe.png){: .mx-auto.d-block :}
+![wrod!](/assets/img/wellframe.jpg){: .mx-auto.d-block :}
 
 
