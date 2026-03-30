@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: gallery
 title: Photo Gallery
 subtitle: Outreach in action!
 ---
