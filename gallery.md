@@ -1,10 +1,9 @@
 ---
-layout: gallery
+layout: page
 title: Photo Gallery
 subtitle: Outreach in action!
-support: [jquery, gallery]
+support: 
 ---
 
 Enjoy some photo gallieries from our various events!  yo?
 
-{% include gallery-layout.html gallery=site.assets.img %}
