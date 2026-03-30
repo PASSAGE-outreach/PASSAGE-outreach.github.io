@@ -1,11 +1,3 @@
-#---
-#layout: page
-#title: Photo Gallery
-#subtitle: Get to know us!
-#---
-
-#Enjoy some photo gallieries from our various events!
-
 ---
 layout: gallery
 title: A Very Basic Example
@@ -13,7 +5,14 @@ no_menu_item: true # required only for this example website because of menu cons
 support: [jquery, gallery]
 ---
 
-Enjoy some photo gallieries from our various events!
+#---
+#layout: page
+#title: Photo Gallery
+#subtitle: Get to know us!
+#---
+
+
+Enjoy some photo gallieries from our various events!  yo
 
 {% include gallery-layout.html gallery=site.data.galleries.san-francisco %}
 
