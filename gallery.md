@@ -1,5 +1,5 @@
 ---
-layout: multiverse
+layout: page
 title: Photo Gallery
 subtitle: Outreach in action!
 ---
