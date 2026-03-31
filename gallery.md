@@ -25,9 +25,10 @@ Enjoy some photo galleries from our various events!
   <a href="#">×</a>
   <a href="#img{% if forloop.first %}{{ site.data.gallery | size }}{% else %}{{ forloop.index0 }}{% endif %}" class="prev">&#10094;</a>
 
-  <img src="{{ img.file }}" alt="{{ img.alt }}">
-
-  <div class="lightbox-caption">{{ img.caption }}</div>
+  <div class="lightbox-image-wrapper">
+    <img src="{{ img.file }}" alt="{{ img.alt }}">
+    <div class="lightbox-caption">{{ img.caption }}</div>
+  </div>
 
   <a href="#img{% if forloop.last %}1{% else %}{{ forloop.index | plus:1 }}{% endif %}" class="next">&#10095;</a>
 </div>
