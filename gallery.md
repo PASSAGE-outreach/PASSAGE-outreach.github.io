@@ -24,7 +24,7 @@ Enjoy some photo galleries from our various events!  yo?
   <div class="gallery-item">
     <a href="#img2">
       <img src="images/wellboards.jpg" alt="this here are well boards">
-      <div class="gallery-caption">Photo 2</div>
+      <div class="gallery-caption">well well well, what do we have here</div>
     </a>
   </div>
 
