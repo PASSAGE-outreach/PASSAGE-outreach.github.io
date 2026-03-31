@@ -42,7 +42,6 @@ Enjoy some photo galleries from our various events!  yo?
   <img src="/assets/img/wellboards.jpg" alt="we love a well board">
 </div>
 
-</div>
 
 
 
