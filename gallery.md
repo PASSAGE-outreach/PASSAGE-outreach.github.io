@@ -38,7 +38,7 @@ Enjoy some photo galleries from our various events!  yo?
 
 <div id="img1" class="lightbox">
   <a href="#">Close</a>
-  <img src="/assets/images/wellframe.jpg">
+  <img src="/assets/img/wellframe.jpg">
 </div>
 
 
