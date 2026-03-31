@@ -23,13 +23,12 @@ Enjoy some photo galleries from our various events!
 {% for img in site.data.gallery_page %}
 <div id="img{{ forloop.index }}" class="lightbox">
   <a href="#">×</a>
-
-  <!-- Previous button -->
   <a href="#img{% if forloop.first %}{{ site.data.gallery | size }}{% else %}{{ forloop.index0 }}{% endif %}" class="prev">&#10094;</a>
 
   <img src="{{ img.file }}" alt="{{ img.alt }}">
 
-  <!-- Next button -->
+  <div class="lightbox-caption">{{ img.caption }}</div>
+
   <a href="#img{% if forloop.last %}1{% else %}{{ forloop.index | plus:1 }}{% endif %}" class="next">&#10095;</a>
 </div>
 {% endfor %}
