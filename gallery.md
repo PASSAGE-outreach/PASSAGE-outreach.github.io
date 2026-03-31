@@ -34,7 +34,7 @@ Enjoy some photo galleries from our various events!  yo?
   <img src="/assets/images/wellframe.png">
 </div> -->
 
-<a href="#img1">Open</a>
+<a href="#img1">Test</a>
 
 <div id="img1" class="lightbox">
   <a href="#">Close</a>
