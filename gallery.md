@@ -13,20 +13,20 @@ Enjoy some photo galleries from our various events!
 <div class="gallery">
   <div class="gallery-item">
     <a href="#img1">
-      <img src="/assets/img/wellframe.jpg" alt="We made a bottomless pit!">
-      <div class="gallery-caption">Photo 1</div>
+      <img src="/assets/img/wellframe.jpg" alt="Construction of mirror pit illusion frame.">
+      <div class="gallery-caption">We made a bottomless pit!</div>
     </a>
   </div>
   <div class="gallery-item">
     <a href="#img2">
-      <img src="/assets/img/scrimcloseup.jpg" alt="Here be dragons.">
-      <div class="gallery-caption">Photo 2</div>
+      <img src="/assets/img/scrimcloseup.jpg" alt="Light shining through a scrim.">
+      <div class="gallery-caption">Here be dragons.</div>
     </a>
   </div>
   <div class="gallery-item">
     <a href="#img3">
-      <img src="/assets/img/middle_1.jpg" alt="Go go middle schoolers!">
-      <div class="gallery-caption">Photo 3</div>
+      <img src="/assets/img/middle_1.jpg" alt="Family STEM night at a Rochester middle school.">
+      <div class="gallery-caption">Go go middle schoolers!</div>
     </a>
   </div>
 </div>
@@ -35,21 +35,22 @@ Enjoy some photo galleries from our various events!
 <div id="img1" class="lightbox">
   <a href="#">×</a>
   <a href="#img3" class="prev">&#10094;</a>
-  <img src="/assets/img/wellframe.jpg" alt="We made a bottomless pit!"> <!-- copy this line from above -->
+  <img src="/assets/img/wellframe.jpg" alt="Construction of mirror pit illusion frame."> <!-- copy this line from above -->
   <a href="#img2" class="next">&#10095;</a>
 </div>
 
 <div id="img2" class="lightbox">
   <a href="#">×</a>
   <a href="#img1" class="prev">&#10094;</a>
-  <img src="/assets/img/scrimcloseup.jpg" alt="Here be dragons."> <!-- copy this line from above -->
+  <img src="/assets/img/scrimcloseup.jpg" alt="Light shining through a scrim."> <!-- copy this line from above -->
   <a href="#img3" class="next">&#10095;</a>
 </div>
 
 <div id="img3" class="lightbox">
   <a href="#">×</a>
   <a href="#img2" class="prev">&#10094;</a>
-  <img src="/assets/img/middle_1.jpg" alt="Go go middle schoolers!"> <!-- copy this line from above -->
+  <img src="/assets/img/middle_1.jpg" alt="Go go middle schoolers!">
+  <img src="/assets/img/middle_1.jpg" alt="Family STEM night at a Rochester middle school."><!-- copy this line from above -->
   <a href="#img1" class="next">&#10095;</a>
 </div>
 
