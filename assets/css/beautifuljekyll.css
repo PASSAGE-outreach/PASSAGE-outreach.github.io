@@ -1201,22 +1201,26 @@ pre {
   margin: 0 auto;
 }
 
-/* Close button */
-.lightbox a.close {
-  position: fixed;
-  top: 20px;
-  right: 30px;
-  font-size: 2rem;
-  font-weight: bold;
+/* Close button relative to image */
+.lightbox-image-wrapper {
+  position: relative; /* already needed for caption positioning */
+}
+
+.lightbox-image-wrapper a.close {
+  position: absolute;
+  top: 8px;       /* 8px from top of image */
+  right: 8px;     /* 8px from right of image */
+  font-size: 1.8rem;
   color: white;
   text-decoration: none;
   background: rgba(0,0,0,0.3);
   padding: 4px 10px;
   border-radius: 4px;
   transition: background 0.3s ease;
+  z-index: 10;
 }
 
-.lightbox a.close:hover {
+.lightbox-image-wrapper a.close:hover {
   background: rgba(255,255,255,0.2);
 }
 
