@@ -1200,7 +1200,16 @@ pre {
   position: absolute;
   top: 20px;
   right: 30px;
-  color: white;
+  color: #fff;
   font-size: 2rem;
+  font-weight: bold;
   text-decoration: none;
+  background: rgba(0,0,0,0.3);
+  padding: 4px 10px;
+  border-radius: 4px;
+  transition: background 0.3s ease;
+}
+
+.lightbox a:hover {
+  background: rgba(255,255,255,0.2);
 }
