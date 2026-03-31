@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Photo Gallery
-subtitle: Outreach in action!
+subtitle: Outreach in Action!
 comments: false
 ---
 
