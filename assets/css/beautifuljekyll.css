@@ -1247,10 +1247,21 @@ pre {
   background: rgba(255, 255, 255, 0.2);
 }
 
-/* Wrapper positions caption relative to image */
+/* Lightbox image wrapper stays relative for caption positioning */
 .lightbox-image-wrapper {
   position: relative;
   display: inline-block; /* shrink-wrap to image size */
+}
+
+/* Responsive lightbox image */
+.lightbox-image-wrapper img {
+  max-width: 95vw;  /* 95% of viewport width */
+  max-height: 95vh; /* 95% of viewport height */
+  width: auto;
+  height: auto;
+  border-radius: 6px;
+  display: block;
+  margin: 0 auto;
 }
 
 /* Caption bottom-left of image */
@@ -1262,7 +1273,7 @@ pre {
   font-size: 1.2rem;
   color: white;
   background: rgba(0,0,0,0.5);
-  border-radius: 4px 0 0 0; /* optional rounded top-left corner */
+  border-radius: 4px 0 0 0;
   opacity: 0;
   transition: opacity 0.3s ease;
   pointer-events: none;
