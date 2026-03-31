@@ -7,43 +7,51 @@ comments: false
 ---
 
 
-Enjoy some photo galleries from our various events!  yo?
+Enjoy some photo galleries from our various events!  
 
-
-<!-- --- Image Gallery --- -->
+<!-- --- Gallery Section --- -->
 <div class="gallery">
-  <!-- Gallery Item 1 -->
   <div class="gallery-item">
     <a href="#img1">
-      <img src="/assets/img/wellframe.jpg" alt="this is how we build the well frame">
-      <div class="gallery-caption">This is how very smart grads build the well frame.</div>
+      <img src="/assets/img/wellframe.jpg" alt="We made a bottomless pit!">
+      <div class="gallery-caption">Photo 1</div>
     </a>
   </div>
-
-  <!-- Gallery Item 2 -->
   <div class="gallery-item">
     <a href="#img2">
-      <img src="/assets/img/wellboards.jpg" alt="this here are well boards">
-      <div class="gallery-caption">well well well, what do we have here</div>
+      <img src="/assets/img/scrimcloseup.jpg" alt="Here be dragons.">
+      <div class="gallery-caption">Photo 2</div>
     </a>
   </div>
-
-  <!-- Add more items as needed -->
+  <div class="gallery-item">
+    <a href="#img3">
+      <img src="/assets/img/middle_1.jpg" alt="Go go middle schoolers!">
+      <div class="gallery-caption">Photo 3</div>
+    </a>
+  </div>
 </div>
 
-<!-- --- Lightboxes --- -->
+<!-- --- Lightboxes with Next/Prev --- -->
 <div id="img1" class="lightbox">
   <a href="#">×</a>
-  <img src="/assets/img/wellframe.jpg" alt="This is how we build the well frame">
+  <a href="#img3" class="prev">&#10094;</a>
+  <img src="/assets/img/wellframe.jpg" alt="We made a bottomless pit!"> <!-- copy this line from above -->
+  <a href="#img2" class="next">&#10095;</a>
 </div>
 
 <div id="img2" class="lightbox">
   <a href="#">×</a>
-  <img src="/assets/img/wellboards.jpg" alt="we love a well board">
+  <a href="#img1" class="prev">&#10094;</a>
+  <img src="/assets/img/scrimcloseup.jpg" alt="Here be dragons."> <!-- copy this line from above -->
+  <a href="#img3" class="next">&#10095;</a>
 </div>
 
-
-
+<div id="img3" class="lightbox">
+  <a href="#">×</a>
+  <a href="#img2" class="prev">&#10094;</a>
+  <img src="/assets/img/middle_1.jpg" alt="Go go middle schoolers!"> <!-- copy this line from above -->
+  <a href="#img1" class="next">&#10095;</a>
+</div>
 
 
 
