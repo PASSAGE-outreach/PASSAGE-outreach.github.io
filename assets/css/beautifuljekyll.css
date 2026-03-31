@@ -1246,3 +1246,29 @@ pre {
 .lightbox a:hover {
   background: rgba(255, 255, 255, 0.2);
 }
+
+/* Wrapper positions caption relative to image */
+.lightbox-image-wrapper {
+  position: relative;
+  display: inline-block; /* shrink-wrap to image size */
+}
+
+/* Caption bottom-left of image */
+.lightbox-caption {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  padding: 8px 12px;
+  font-size: 1.2rem;
+  color: white;
+  background: rgba(0,0,0,0.5);
+  border-radius: 4px 0 0 0; /* optional rounded top-left corner */
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  pointer-events: none;
+}
+
+/* Show caption on lightbox hover */
+.lightbox:hover .lightbox-caption {
+  opacity: 1;
+}
