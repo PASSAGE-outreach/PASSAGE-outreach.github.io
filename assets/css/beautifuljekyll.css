@@ -1202,7 +1202,7 @@ pre {
 }
 
 /* Close button */
-.lightbox a[href="#"] {
+.lightbox a.close {
   position: fixed;
   top: 20px;
   right: 30px;
@@ -1216,7 +1216,7 @@ pre {
   transition: background 0.3s ease;
 }
 
-.lightbox a[href="#"]:hover {
+.lightbox a.close:hover {
   background: rgba(255,255,255,0.2);
 }
 
