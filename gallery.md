@@ -9,7 +9,7 @@ comments: false
 Enjoy some photo galleries from our various events!  
 
 <div class="gallery">
-  {% for img in site.data.gallery %}
+  {% for img in site.data.gallery_page %}
   <div class="gallery-item">
     <a href="#img{{ forloop.index }}">
       <img src="{{ img.file }}" alt="{{ img.alt }}">
@@ -20,7 +20,7 @@ Enjoy some photo galleries from our various events!
 </div>
 
 <!-- --- Lightboxes --- -->
-{% for img in site.data.gallery %}
+{% for img in site.data.gallery_page %}
 <div id="img{{ forloop.index }}" class="lightbox">
   <a href="#">×</a>
 
