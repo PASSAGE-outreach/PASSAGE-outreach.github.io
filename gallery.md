@@ -1,8 +1,7 @@
 ---
-layout: gallery
+layout: page
 title: Photo Gallery
 subtitle: Outreach in action!
-thumbnail-img: /assets/img/wellboards.png
 comments: false
 ---
 
