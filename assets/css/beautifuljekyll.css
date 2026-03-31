@@ -1194,18 +1194,18 @@ pre {
   pointer-events: auto;
 }
 
-/* Wrapper positions caption and close button relative to image */
+/* Lightbox wrapper (centers image and caption) */
 .lightbox-image-wrapper {
   position: relative;
-  max-width: 95vw;
-  max-height: 95vh;
+  display: inline-block; /* shrink-wrap to image size */
 }
 
-/* Image scaling responsively */
+/* Lightbox image scaling */
 .lightbox-image-wrapper img {
-  width: 100%;
-  height: 100%;
-  object-fit: contain; /* scale to fit container */
+  max-width: 95vw;   /* 95% of viewport width */
+  max-height: 95vh;  /* 95% of viewport height */
+  width: auto;       /* scale according to aspect ratio */
+  height: auto;      /* scale according to aspect ratio */
   display: block;
   border-radius: 6px;
 }
@@ -1213,7 +1213,7 @@ pre {
 /* Caption at top of image */
 .lightbox-caption {
   position: absolute;
-  top: 0;             /* top of image */
+  top: 0;
   left: 0;
   width: 100%;
   padding: 8px 12px;
@@ -1226,7 +1226,6 @@ pre {
   pointer-events: none;
 }
 
-/* Show caption on hover over wrapper */
 .lightbox-image-wrapper:hover .lightbox-caption {
   opacity: 1;
 }
@@ -1249,6 +1248,9 @@ pre {
 .lightbox-image-wrapper a.close:hover {
   background: rgba(255,255,255,0.2);
 }
+Explanation
+max-width: 95vw; max-height: 95vh → ensures the image never exceeds 95% of viewport width or height.
+width: auto
 
 /* Next/Prev buttons */
 .lightbox a.next,
