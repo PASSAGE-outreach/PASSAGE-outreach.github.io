@@ -10,7 +10,7 @@ comments: false
 Enjoy some photo galleries from our various events!  yo?
 
 
-
+<!--
 <div class="gallery">
   <a href="#img1" class="gallery-item">
     <img src="/assets/images/wellboards.png" alt="Photo 1">
@@ -23,7 +23,7 @@ Enjoy some photo galleries from our various events!  yo?
   </a>
 </div>
 
-<!-- Lightboxes -->
+<!-- Lightboxes 
 <div id="img1" class="lightbox">
   <a href="#" class="lightbox-close">&times;</a>
   <img src="/assets/images/wellboards.png">
@@ -32,9 +32,14 @@ Enjoy some photo galleries from our various events!  yo?
 <div id="img2" class="lightbox">
   <a href="#" class="lightbox-close">&times;</a>
   <img src="/assets/images/wellframe.png">
+</div> -->
+
+<a href="#img1">Open</a>
+
+<div id="img1" class="lightbox">
+  <a href="#">Close</a>
+  <img src="/assets/images/wellframe.png">
 </div>
-
-
 
 
 wooapsd 
