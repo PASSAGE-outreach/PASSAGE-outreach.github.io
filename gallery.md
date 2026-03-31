@@ -22,7 +22,7 @@ Enjoy some photo galleries from our various events!
 <!-- --- Lightboxes --- -->
 {% for img in site.data.gallery_page %}
 <div id="img{{ forloop.index }}" class="lightbox">
-  <a href="#">×</a>
+  <a href="#!" class="close">×</a>
   <a href="#img{% if forloop.first %}{{ site.data.gallery | size }}{% else %}{{ forloop.index0 }}{% endif %}" class="prev">&#10094;</a>
 
   <div class="lightbox-image-wrapper">
