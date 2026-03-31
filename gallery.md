@@ -9,7 +9,33 @@ comments: false
 
 Enjoy some photo galleries from our various events!  
 
-<!-- --- Gallery Section --- -->
+<div class="gallery">
+  {% for img in site.data.gallery %}
+  <div class="gallery-item">
+    <a href="#img{{ forloop.index }}">
+      <img src="{{ img.file }}" alt="{{ img.alt }}">
+      <div class="gallery-caption">{{ img.caption }}</div>
+    </a>
+  </div>
+  {% endfor %}
+</div>
+
+<!-- --- Lightboxes --- -->
+{% for img in site.data.gallery %}
+<div id="img{{ forloop.index }}" class="lightbox">
+  <a href="#">×</a>
+
+  <!-- Previous button -->
+  <a href="#img{% if forloop.first %}{{ site.data.gallery | size }}{% else %}{{ forloop.index0 }}{% endif %}" class="prev">&#10094;</a>
+
+  <img src="{{ img.file }}" alt="{{ img.alt }}">
+
+  <!-- Next button -->
+  <a href="#img{% if forloop.last %}1{% else %}{{ forloop.index | plus:1 }}{% endif %}" class="next">&#10095;</a>
+</div>
+{% endfor %}
+
+<!-- --- Gallery Section --- 
 <div class="gallery">
   <div class="gallery-item">
     <a href="#img1">
@@ -31,18 +57,18 @@ Enjoy some photo galleries from our various events!
   </div>
 </div>
 
-<!-- --- Lightboxes with Next/Prev --- -->
+<!-- --- Lightboxes with Next/Prev --- 
 <div id="img1" class="lightbox">
   <a href="#">×</a>
   <a href="#img3" class="prev">&#10094;</a>
-  <img src="/assets/img/wellframe.jpg" alt="Construction of mirror pit illusion frame."> <!-- copy this line from above -->
+  <img src="/assets/img/wellframe.jpg" alt="Construction of mirror pit illusion frame."> <!-- copy this line from above --
   <a href="#img2" class="next">&#10095;</a>
 </div>
 
 <div id="img2" class="lightbox">
   <a href="#">×</a>
   <a href="#img1" class="prev">&#10094;</a>
-  <img src="/assets/img/scrimcloseup.jpg" alt="Light shining through a scrim."> <!-- copy this line from above -->
+  <img src="/assets/img/scrimcloseup.jpg" alt="Light shining through a scrim."> <!-- copy this line from above --
   <a href="#img3" class="next">&#10095;</a>
 </div>
 
@@ -50,7 +76,7 @@ Enjoy some photo galleries from our various events!
   <a href="#">×</a>
   <a href="#img2" class="prev">&#10094;</a>
   <img src="/assets/img/middle_1.jpg" alt="Go go middle schoolers!">
-  <img src="/assets/img/middle_1.jpg" alt="Family STEM night at a Rochester middle school."><!-- copy this line from above -->
+  <img src="/assets/img/middle_1.jpg" alt="Family STEM night at a Rochester middle school."><!-- copy this line from above --
   <a href="#img1" class="next">&#10095;</a>
 </div>
 
