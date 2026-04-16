@@ -65,7 +65,12 @@ To assemble the well, the mirror is placed on the floor, the well base on top of
 
 <details markdown="1">
 <summary>Ghost Writing</summary>
-**Under construction**
+![Ghost1](/assets/img/Dom_ghost1.png){: .mx-auto.d-block :}
+
+The ghost writing demo made use of phosphorescence to create lingering ghostly images and writing. To create the demo, began by creating a small booth from PVC pipes. We painted a large sheet of plexiglas with several coats of phosphorescent paint, and attached it to one side of the booth. The other sides of the booth, as well as the top, were covered with blackout curtains to restict ambiant light. Within the booth, a volunteer would sit with a UV flashlight and laser pointer. Using the UV light, the volunteer would create glowing shapes on the plexiglass that faded over time.
+
+![Ghost2](/assets/img/ghost_print_before.jpg){: .mx-auto.d-block :}
+![Ghost3](/assets/img/ghost_print_after.jpg){: .mx-auto.d-block :}
 </details>
 
 <details markdown="1">
